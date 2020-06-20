@@ -1,0 +1,38 @@
+#Education :hover{
+  font-size: 15px;
+}
+
+.ProfessionalSkills{
+  background-color: lightgrey;
+  color: green;
+}
+.profile{
+  vertical-align:middle;
+}
+
+.main{
+  background-color: lightgrey;
+  color: green;
+}
+.EducationTable{
+  background-color: lightgreen;
+  color: green;
+}
+
+
+/*
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 5%;
+  border-color: lightgrey;
+}
+*/
+
+td{
+  vertical-align:text-top;
+  font-weight: bold;
+  font-family: sans-serif;
+  font-size: 14px;
+}
